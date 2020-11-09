@@ -1,0 +1,40 @@
+<h1>追星網站</h1>
+<form action="https://weibo.com/tw"method="GET">
+<input type="text"name="category">
+<input type="submit"value="前往微博">
+</form>
+
+<br>
+<h1>漫畫網站</h1>
+<form action="https://www.webtoons.com/zh-hant/top"method="GET">
+<select name="rankingGenre">
+<option value="ALL">全部</option>
+<option value="ACTION_FANTASY"selected>動作/奇幻</option>
+<option value="ROMANCE_DRAMA">愛情/劇情</option>
+<option value="COMEDY">搞笑</option>
+<option value="SLICE_OF_LIFE">生活</option>
+<option value="OTHERS">其他</option>
+
+</select>
+<input type="submit" value="前往webtoon">
+</form>
+
+<br>
+<h1>網購網站</h1>
+<form action="https://ecshweb.pchome.com.tw/search/v3.3/"method="GET">
+<input type="text" name="q">
+<input type="hidden" name="sortParm" value="sale">
+<input type="submit" value="搜尋PC home">
+</form>
+
+<br>
+<h1>個資表單</h1>
+<p>暱稱:<input type="texe" name="username" placeholder="例如: 卍煞氣a帥哥卍" required autofocus></p>
+<p>性別:<select name="gender">
+<option name="male">男</option>
+<option name="female">女</option>
+</select></p>
+<p>信箱:<input type="email" name="email"></p>
+<p>年齡:<input type="number" name="namber"min="1" max="100" step="1" >
+<p>生日:<input type="date" name="date"></p>
+
