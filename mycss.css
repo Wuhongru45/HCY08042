@@ -1,0 +1,13 @@
+  
+books{color:white; background-color:rosybrown; width:100%}
+
+heading{color:wheat; font-size:40px; background-color:sienna}
+
+heading,title,author,publisher,price{display:block}
+
+title{
+font-size:25px; font-weight:bold; font-height:18px; color:sienna }
+
+author{font-size:18px; font-weight:bold; font-height:18px}
+publisher{font-size:18px; font-weight:bold; font-height:18px; color:indianred}
+price{font-size:18px; font-weight:bold; font-height:18px}
