@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+<heading>٩(●˙▿˙●)۶…⋆ฺ宅花🌸宅火🔥的動漫推薦 (・∀・)✿ </heading>
+<book>
+<title>海賊王</title>
+<author>動漫</author>
+<price>【長篇】【冒險】【奇幻】</price>
+<publisher>花花 推薦!</publisher>
+</book>
+
+<book>
+<title>我的英雄學院</title>
+<author>動漫</author>
+<price>【熱血】【奇幻】【校園】</price>
+<publisher>花花 推薦!</publisher>
+</book>
+
+<book>
+<title>暗殺教室</title>
+<author>動漫</author>
+<price>【治癒】【成長】【日常】</price>
+<publisher>花花 推薦!</publisher>
+</book>
+
+<book>
+<title>排球少年</title>
+<author>動漫</author>
+<price>【運動】【熱血】【勵志】</price>
+<publisher>花花 推薦!</publisher>
+</book>
+
+<book>
+<title>齊木楠雄的災難</title>
+<author>動漫</author>
+<price>【搞笑】【日常】</price>
+<publisher>花花 推薦!</publisher>
+</book>
+
+<book>
+<title>全知讀者視角</title>
+<author>網路漫畫</author>
+<price>【動作】【奇幻】【劇情】</price>
+<publisher>私心推薦~</publisher>
+</book>
+
+<book>
+<title>某天成為公主</title>
+<author>網路漫畫</author>
+<price>【奇幻】【劇情】 【親情】</price>
+<publisher>私心推薦~</publisher>
+</book>
+
+<book>
+<title>少女的世界</title>
+<author>網路漫畫</author>
+<price>【生活】【友情】【校園】</price>
+<publisher>私心推薦~</publisher>
+</book>
+
+</books>
